@@ -1,0 +1,44 @@
+﻿生成启动时间为 2019/4/10 20:53:53。
+     1>项目“D:\C++demo\STL\STL\STL\STL.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\STL.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\STL.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt list.cpp string.cpp "string迭代器.cpp" vector.cpp
+         vector.cpp
+         string迭代器.cpp
+         string.cpp
+         list.cpp
+         正在生成代码...
+         d:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "字符串.c"
+         字符串.c
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\STL.exe.embed.manifest.res" Debug\STL_manifest.rc 
+       Link:
+         d:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++demo\STL\STL\Debug\STL.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\STL.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++demo\STL\STL\Debug\STL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++demo\STL\STL\Debug\STL.lib" /MACHINE:X86 Debug\STL.exe.embed.manifest.res
+         Debug\list.obj
+         Debug\string.obj
+         "Debug\string迭代器.obj"
+         Debug\vector.obj
+         "Debug\字符串.obj"
+       Manifest:
+         正在删除文件“Debug\STL.exe.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\STL.exe.embed.manifest" /manifest Debug\STL.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\STL.exe.embed.manifest.res" Debug\STL_manifest.rc 
+       LinkEmbedManifest:
+         d:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++demo\STL\STL\Debug\STL.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\STL.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++demo\STL\STL\Debug\STL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++demo\STL\STL\Debug\STL.lib" /MACHINE:X86 Debug\STL.exe.embed.manifest.res
+         Debug\list.obj
+         Debug\string.obj
+         "Debug\string迭代器.obj"
+         Debug\vector.obj
+         "Debug\字符串.obj"
+         STL.vcxproj -> D:\C++demo\STL\STL\Debug\STL.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\STL.unsuccessfulbuild”。
+         正在对“Debug\STL.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C++demo\STL\STL\STL\STL.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.65
